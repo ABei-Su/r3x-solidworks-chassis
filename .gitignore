@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+*.exe
+*.dll
+*.pdb
+*.sldbak
+*.sldrecover
+~$*
+.vs/
+.env
+.env.*
+*.log
